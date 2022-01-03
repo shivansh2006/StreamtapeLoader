@@ -27,3 +27,4 @@ Telegram RoBot to Upload Streamtape URL.
 
 #### LICENSE
 - GPLv3
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shivansh2006/StreamtapeLoader)
